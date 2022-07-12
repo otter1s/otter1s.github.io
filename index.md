@@ -1,1 +1,1 @@
-<h1> LinkedIn Leanding course <h1>
+<h1> LinkedIn Learning course <h1>
